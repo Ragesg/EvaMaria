@@ -7,7 +7,7 @@ class script(object):
 ✯ <b>Creator: <a href='https://t.me/rahulp_r'>This Person</a> </b> 
 ✯ <b>Library: Pyrogram</b>
 ✯ <b>Language: Python 3</b>
-✯ <b>Data Base: MONOGO DB</b>
+✯ <b>Data Base: MONGO DB</b>
 ✯ <b>Server: HEROKU</b>
 ✯ <b>Build Status: v1.3.0 [STABLE]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
