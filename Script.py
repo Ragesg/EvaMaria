@@ -1,17 +1,17 @@
 class script(object):
     START_TXT = """<b>Hi 👋 {},</b>
-<b>My Name is <a href='https://t.me/Filter_free_bot'>Samantha</a>, \n𝙸 can provide movies in your Group, \nJust add me to your group and i will do my work 😜.....</b>"""
+<b>My Name is <a href='https://t.me/newallfilmbot'>- Plicky -</a>, \nI can provide movies in your Group, \nJust add me to your group and i will do my work 😜.....</b>"""
     HELP_TXT = """Hei 🐳 {}
 <b>Here is the help for my COMMANDs.</b>"""
-    ABOUT_TXT = """✯ <b>My Name: Samantha </b>
-✯ <b>Creator: <a href='https://t.me/rahulp_r'>This Person</a> </b> 
-✯ <b>Library: Pyrogram</b>
-✯ <b>Language: Python 3</b>
-✯ <b>Data Base: MONGO DB</b>
-✯ <b>Server: HEROKU</b>
-✯ <b>Build Status: v1.3.0 [STABLE]</b>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Samantha is not a open source project. 
+    ABOUT_TXT = """✯ <b>My Name 😌: - Plicky -</b>
+✯ <b>Creator 😜: <a href='https://t.me/rahulp_r'>This Person</a> </b> 
+✯ <b>Library 📚 : Pyrogram</b>
+✯ <b>Language ☺ : Python 3</b>
+✯ <b>Data Base 💿 : MONGO DB</b>
+✯ <b>Server 🐜 : HEROKU</b>
+✯ <b>Build Status 😴 : v1.1.0 [STABLE]</b>"""
+    SOURCE_TXT = """<b>MORE:</b>
+- Plicky bot is not a open source project. 
 - It will be open soon... \n- Join @CP_Archivedmovies to be updated.... 
 
 <b>DEVS:</b>
