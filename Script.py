@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>Hi 👋 {},</b>
-<b>My Name is <a href='https://t.me/Filter_free_bot'>Samantha</a>, \n𝙸 can provide movies in your Group, \nJust add me to your group and i will do my work 😜.....</b>"""
+<b>My Name is <a href='https://t.me/newallfilmbot'>- Samantha -</a>, \nI can provide movies in your Group, \nJust add me to your group and i will do my work 😜.....</b>"""
     HELP_TXT = """Hei 🐳 {}
 <b>Here is the help for my COMMANDs.</b>"""
     ABOUT_TXT = """✯ <b>My Name: Samantha </b>
@@ -12,10 +12,10 @@ class script(object):
 ✯ <b>Build Status: v1.3.0 [STABLE]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Samantha is not a open source project. 
-- It will be open soon... \n- Join @CP_Archivedmovies to be updated.... 
+- Its code was based on EvaMaria repo which can be found in Github. \n- For any queries related to this bot contact <b>@rahulp_r</b>, and was the reason for my birth in Telegram 😘."""
 
-<b>DEVS:</b>
-- <a href=https://t.me/rahulp_r>This Person</a>"""
+
+
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Samantha will respond whenever a keyword is found in the message.... 
@@ -40,7 +40,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/CP_Archivedmovies)</code>
+<code>[Owner](buttonurl:https://t.me/rahulp_r)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -67,7 +67,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Samantha 
+These are the extra features of Samantha 
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
